@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbui2602/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "lbui2602",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbui2602/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/lbui2602/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
